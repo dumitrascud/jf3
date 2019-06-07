@@ -1,4 +1,4 @@
-//O aplicație care poate determina dacă o literă introdusa de la tastiera e vocală sau consoană.
+//O aplicație care calculeaza suma lui X si Y.
 import java.util.Scanner;
 
 public class SumaXY {
