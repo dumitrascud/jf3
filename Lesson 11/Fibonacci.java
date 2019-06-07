@@ -14,6 +14,6 @@ public class Fibonacci{
             n0 = n1;
             n1 = n2;
         }
-System.out.println();
+//System.out.println();
     }   
 }
